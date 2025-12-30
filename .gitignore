@@ -1,0 +1,14 @@
+# Compiled executable
+*.exe
+*.out
+*.obj
+
+# Temporary files created by the program
+temp.txt
+books.txt
+issue.txt
+
+# Backup or editor files
+*.bak
+*.swp
+*.tmp
